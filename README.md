@@ -26,7 +26,7 @@ Steps to set up and run the Airbnb ETL project:
   - Upon successful completion, you should see the message "ETL workflow completed successfully."
 9. Verify the results:
   - Connect to your PostgreSQL database
-  - Check that the 'listings' table has been created and contains the transformed data
+  - Check that the 'transforemed_listings' table has been created and contains the transformed data
 
 For more detailed information, refer to the comments in the code.
 
